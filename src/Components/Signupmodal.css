@@ -1,0 +1,38 @@
+/*.my-modal {*/
+/*    max-height: 20vh;*/
+/*    max-width: 20vw;*/
+/*    overflow-y: auto;*/
+/*}*/
+/*.modal-body {*/
+/*    max-height: 80vh; overflow-y: auto;*/
+/*}*/
+
+.modal
+{
+
+    opacity:1 !important;
+}
+.modal-content {
+  /*background-image: url("./images/backg.jpg");*/
+  height: 800px !important;
+    color : darkcyan;
+
+}
+.background {
+   background-image: url("./images/backg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.modal-header .modal-title {
+
+    display: block;
+    text-align: center;
+    width: 100%;
+
+}
+
+
+/*.my-modal .modal-content {*/
+/*  background-color: red;*/
+/*}*/
