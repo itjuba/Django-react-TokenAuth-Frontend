@@ -19,7 +19,7 @@ function MyVerticallyCenteredModal2(props) {
       aria-labelledby="contained-modal-title-vcenter"
       centered
            // dialogClassName='custom-dialog'
-           contentClassName="custom-modal"
+           contentClassName="modal"
             transparent={true}
     >
       <Modal.Header closeButton >

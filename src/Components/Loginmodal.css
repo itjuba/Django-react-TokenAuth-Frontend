@@ -7,17 +7,29 @@
 /*    max-height: 80vh; overflow-y: auto;*/
 /*}*/
 
+
+.nadjib {
+    display: block !important;
+    height: 200px !important ;
+    max-height: 400px !important; /* solution */
+    color : darkcyan;
+    margin-top: 50px;
+
+}
 .modal
 {
-
+    margin-top: 50px;
     opacity:1 !important;
 }
-.modal-content {
-  /*background-image: url("./images/backg.jpg");*/
-  height: 400px !important;
-    color : darkcyan;
+/*.modal-content {*/
+/*  !*background-image: url("./images/backg.jpg");*!*/
+/*    display: block !important;*/
+/*    height: 200px !important ;*/
+/*    color : darkcyan;*/
+/*    margin-top: 10px;*/
 
-}
+
+/*}*/
 .background {
    background-image: url("./images/backg.jpg");
     background-repeat: no-repeat;

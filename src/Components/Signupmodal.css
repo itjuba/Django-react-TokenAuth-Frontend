@@ -9,7 +9,7 @@
 
 .modal
 {
-
+     margin-top: 50px;
     opacity:1 !important;
 }
 .modal-content {
@@ -18,6 +18,8 @@
     color : darkcyan;
 
 }
+
+
 .background {
    background-image: url("./images/backg.jpg");
     background-repeat: no-repeat;

@@ -14,13 +14,13 @@ function MyVerticallyCenteredModal(props) {
 
   return (
     <Modal
-        style={{height : '500px'}}
+        // style={{height : '500px'}}
       {...props}
-      size="md-4"
+      size="md"
       aria-labelledby="contained-modal-title-vcenter"
       centered
-           // contentClassName="dialogClassName"
-           dialogClassName="custom-modal"
+           contentClassName="nadjib"
+           dialogClassName="nadjib"
             transparent={true}
     >
       <Modal.Header closeButton>
